@@ -61,3 +61,17 @@ body {
 #main-navbar ul li a:hover {
 	background-color: #808080;
 }
+
+#footer-a {
+	background-color: #000033;
+	height: 100px;
+	color: #2F4F4F;
+	clear: both;
+}
+
+#footer-c {
+	background-color: #000033;
+	height: 300px;
+	color: #2F4F4F;
+	clear: both;
+}
