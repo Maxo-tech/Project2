@@ -67,11 +67,23 @@ body {
 	height: 100px;
 	color: #2F4F4F;
 	clear: both;
+	text-align: center;
 }
 
-#footer-c {
-	background-color: #000033;
-	height: 300px;
-	color: #2F4F4F;
+#main-content {
+	margin-right: 10px;
+	margin-left: 20px;
+}
+
+.image-m {
+	width: 300px;
+	padding: 5px;
+	margin: 10px 0 10px 20px;
+	border: 2px;
+	border-color: #333;
 	clear: both;
+}
+
+#main-content h2 {
+	color: #2F4F4F;
 }

@@ -62,16 +62,8 @@ body {
 	background-color: #808080;
 }
 
-#footer-a {
-	background-color: #000033;
-	height: 100px;
-	color: #2F4F4F;
-	clear: both;
-}
-
-#footer-c {
-	background-color: #000033;
-	height: 300px;
-	color: #2F4F4F;
-	clear: both;
+#main-container {
+	width: 715px;
+	margin-right: 30px;
+	margin-left: 45px;
 }

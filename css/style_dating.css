@@ -62,6 +62,15 @@ body {
 	background-color: #808080;
 }
 
+#vid {
+	float: right;
+	width: 400;
+	height: 300;
+	margin: 10px 10px 10px 20px;
+	border: 2px #333;
+	
+}
+
 #footer-a {
 	background-color: #000033;
 	height: 100px;
@@ -74,4 +83,56 @@ body {
 	height: 300px;
 	color: #2F4F4F;
 	clear: both;
+	text-align: center;
+	
+}
+
+#footer-c h4 {
+	margin-left: 15px;
+	height: 0px;
+	color: #333;
+}
+
+#footer-c p {
+	margin-top: opx;
+	margin-bottom: 25px;
+	height: 5px;
+	font-size: 0.8em;
+}
+
+#footer-c ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	clear: both;
+	height: 50px;
+
+}
+
+#footer-c ul li a {
+	padding: 0;
+	display: block;
+	color: #fff;	
+	text-docoration: none;
+	font-size: 0.9em;
+}
+
+#footer-c ul li a:hover {
+	background-color: #808080;
+}
+
+.last-p {
+	margin-top: 40px;
+}
+
+#main-content {
+	min-height: 300px;
+	width: 715px;
+	margin-right: 30px;
+	margin-left: 15px;
+}
+
+#main-content #conclu {
+	border: 2px solid blue;
+	align-content: center;
 }
